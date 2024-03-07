@@ -1,2 +1,0 @@
-# BigData-Essential
-Learning Material
